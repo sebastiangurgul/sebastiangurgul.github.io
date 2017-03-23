@@ -1,0 +1,64 @@
+.pic1 {
+	width: 300px;
+	height: 200px;
+}
+.pic2 {
+	width: 150px;
+	height: 100px;
+}
+
+.aa1 {
+	font-size: 20px;	
+}
+.aa2 {
+	font-size: 18px;	
+}
+.aa3 {
+	font-size: 16px;	
+}
+.aa4 {
+	font-size: 18px;
+	color: blue;	
+}
+.aa5 {
+	font-size: 18px;
+	color: purple;	
+}
+.aa6 {
+	font-size: 16px;
+	color: red;
+	font-weight: bold;	
+}
+.aa7 {
+	font-size: 20px;
+	color: green;
+	font-weight: bold;	
+}
+.aa8 {
+	font-size: 20px;
+	color: violet;
+	font-weight: bold;
+	text-decoration: underline	
+}
+.aa9 {
+	font-size: 22px;
+	color: red;
+	font-weight: bold;
+	text-decoration: underline	
+}
+.aa10 {
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	text-decoration: underline	
+}
+.nav {
+	color: blue;
+	font-size: 16px;
+}
+.blank {
+	color: white;
+}
+.back1 {
+	background: red;
+}
